@@ -1,2 +1,2 @@
-# Machine-Learning-project
-Multiclass classification of pesticide toxicity to honey bees
+# Multiclass classification of pesticide toxicity to honey bees
+## Pipeline of the project
