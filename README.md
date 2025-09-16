@@ -37,7 +37,7 @@ This basic machine learning project involves training a model using a given set 
 
 Tha same pipeline has been applied to solve firstly a multiclass classification problem using the output column 'ppdb_level' and secondly to a binary classification problem using the column 'label'. 
 
-The entire workflow and code of this project can be found at  
+The entire workflow and code of this project can be found at https://github.com/teresa-gianni/Machine-Learning-project/blob/main/AMLB_project_Teresa_Gianni.ipynb
 ## Author 
 Teresa Gianni  
 Alma mater studiorum - University of Bologna (Italy)  
