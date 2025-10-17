@@ -5,11 +5,12 @@ The study relies on a curated dataset that includes chemical descriptors and tox
 
 ## Dataset Description
 
-**Overview**
+### **Overview**
 
 - **Number of instances:** 1035  
 - **Number of attributes:** 11 features + 2 targets  
-- **Tasks:**  
+
+### **Tasks:**  
   - **Binary classification** (Target: `label`)  
   - **Multiclass classification** (Target: `ppdb_level`)  
 
@@ -38,9 +39,9 @@ The study relies on a curated dataset that includes chemical descriptors and tox
 3. **Exploratory Data Analysis (EDA)**  
 4. **Data splitting** – Train/test partition  
 5. **Preprocessing** – Data cleaning, encoding, and normalization  
-6. **Feature selection**  
-7. **Model training**  
-8. **Performance evaluation**
+6. **Feature selection**  - With SelectKBest and Recursive Feature Elimination (RFE)
+7. **Model training**  - Among different models 
+8. **Performance evaluation** - On the best performing model resulted from the comparison
 
 The pipeline was applied twice:  
 - Multiclass classification using `ppdb_level` as target  
