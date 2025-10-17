@@ -10,7 +10,7 @@ The study relies on a curated dataset that includes chemical descriptors and tox
 - **Number of instances:** 1035  
 - **Number of attributes:** 11 features + 2 targets  
 
-### **Tasks:**  
+### **Tasks**  
   - **Binary classification** (Target: `label`)  
   - **Multiclass classification** (Target: `ppdb_level`)  
 
